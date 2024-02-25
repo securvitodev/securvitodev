@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @securvitodev
-- 👀 I’m interested in Lua scripting.
-- 🌱 I’m currently learning JS, CSS, HTML
-- 😎 I’m currently working on MGS with mlndev
-- ❤️ Official alt:V lover
+- 👀 I’m interested in Lua and JS scripting
+- 🌱 I’m currently learning CSS
 - 🤫 I'm currently developing MTA servers
 <!---
 securvitodev/securvitodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
