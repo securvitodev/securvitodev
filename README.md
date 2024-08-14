@@ -6,7 +6,7 @@
 ---
 
 🌐 **Exploring Digital Realms**:  
-Delving into the dynamic worlds of **Lua** and **JavaScript** scripting, where logic meets creativity. My journey in code is an adventure through virtual landscapes, making every line of code a step into the future.
+Delving into the dynamic worlds of **Lua** and **JavaScript**, where logic meets creativity. My journey in code is an adventure through virtual landscapes, making every line of code a step into the future.
 
 ---
 
