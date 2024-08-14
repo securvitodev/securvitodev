@@ -11,7 +11,7 @@ Delving into the dynamic worlds of **Lua** and **JavaScript** scripting, where l
 ---
 
 🚀 **Learning for the Next Frontier**:  
-Currently upgrading my style with **CSS**. It’s not just about the code; it's about making the web a more beautiful place, one pixel at a time.
+Currently upgrading my skills in **CSS**. It’s not just about the code; it's about making the web a more beautiful place, one pixel at a time.
 
 ---
 
