@@ -16,7 +16,7 @@ Currently upgrading my skills in **CSS**. It’s not just about the code; it's a
 ---
 
 🛠 **Building the future, one server at a time**:  
-I'm in stealth mode, crafting and fine-tuning **MTA servers and FIVEM scripts**. Think of it as my secret lab, where the code evolves into something extraordinary.
+I'm in stealth mode, crafting and fine-tuning **MTA servers and FiveM scripts**. Think of it as my secret lab, where the code evolves into something extraordinary.
 
 ---
 
